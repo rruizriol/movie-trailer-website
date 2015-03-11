@@ -4,6 +4,7 @@ respective box art imagery and movie trailer website. The data should be served 
 to review the movies and watch the trailers:
 
 The application is located inside the folder AppCode. In order to executed the application do the following
-- Open a console
-- Change your current directory to the folder AppCode
+- Download the repository
+- Open a command console
+- Change your current directory to the folder movie-trailer-website/AppCode
 - Execute this python create_content.py
