@@ -6,5 +6,5 @@ to review the movies and watch the trailers:
 The application is located inside the folder AppCode. In order to executed the application do the following
 - Download the repository
 - Open a command console
-- Change your current directory to the folder <i>movie-trailer-website/AppCode</i>
-- Execute this command <i>python create_content.py</i>
+- Change your current directory to the folder <i><b>movie-trailer-website/AppCode</b></i>
+- Execute this command <i><b>python create_content.py</b></i>
