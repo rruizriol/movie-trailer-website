@@ -7,4 +7,4 @@ The application is located inside the folder AppCode. In order to executed the a
 - Download the repository
 - Open a command console
 - Change your current directory to the folder movie-trailer-website/AppCode
-- Execute this python create_content.py
+- Execute this command python create_content.py
